@@ -1,4 +1,3 @@
 support_hours=08:30-18:00
 response_minutes=60
-broken_setting=bad
 
