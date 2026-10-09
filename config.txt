@@ -1,2 +1,3 @@
-Start support at 08:30
+support_hours=08:30-18:00
 response_minutes=60
+
